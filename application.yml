@@ -6,3 +6,5 @@ eureka:
       defaultZone:  http://localhost:8761/eureka/
   instance:
    hostname: localhost
+   
+config.server.url: this is from congig git
